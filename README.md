@@ -2,9 +2,9 @@
 
 This is my attempt at fine-tuning YOLO11 for the **Rock-Paper-Scissors** detection task.
 
-[![demo](results/demo.png)](YTTTTT)
+[![demo](results/demo.png)](https://youtube.com/shorts/I4SnCiBml5E?feature=share)
 
-To see the model's performance on a video: [YTTTTT](YTTTTT)
+To see the model's performance on a video click on [https://youtube.com/shorts/I4SnCiBml5E?feature=share](https://youtube.com/shorts/I4SnCiBml5E?feature=share) or on the demo image above.
 
 ## Training
 
